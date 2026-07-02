@@ -1,0 +1,9 @@
+pandas>=2.0
+pyyaml>=6.0
+sqlalchemy>=2.0
+streamlit>=1.35
+plotly>=5.20
+
+# Optional, only needed if you switch DB_URL to Postgres or MySQL:
+# psycopg2-binary   # for postgresql://
+# pymysql           # for mysql+pymysql://

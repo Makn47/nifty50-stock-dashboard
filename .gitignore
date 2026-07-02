@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+*.egg-info/
+
+# Generated data — regenerate via the scripts rather than committing large binaries.
+# Comment these out if you want the CSVs/DB tracked in git for grading convenience.
+# csv_data/*.csv
+# sql/stock_data.db
+# outputs/powerbi/*.csv
